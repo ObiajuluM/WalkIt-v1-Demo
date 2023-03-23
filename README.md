@@ -1,3 +1,4 @@
+![24_objects](https://user-images.githubusercontent.com/47371105/227135419-ad5ae0e0-6ca4-4920-a69b-0592ed1b165e.png)
 # WalkIt
 
 A LifeStyle app where web3 meets real life, make walking fun.
