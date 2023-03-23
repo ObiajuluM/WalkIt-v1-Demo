@@ -8,7 +8,7 @@ Walk It is an app that pays you to stay active.
 
 download repo and run `flutter pub add`
 
-run 'main.dart' file
+run the `main.dart` file
 
 This project is a starting point for a Flutter application.
 
