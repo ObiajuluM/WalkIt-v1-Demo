@@ -5,6 +5,8 @@ A LifeStyle app where web3 meets real life, make walking fun.
 
 Walk It is an app that pays you to stay active.
 
+###### this is just a demo and in no way the complete project, what you find here is just to show you what is possible and to prove i can build it
+
 #### If you are an andriod user, you can download the already bundled APK. currently it can only read steps from your device, other functionalities are a work in progress
 
 ## Getting Started
