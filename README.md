@@ -1,8 +1,14 @@
-# demo
+# WalkIt
 
-A new Flutter project.
+A LifeStyle app where web3 meets real life, make walking fun.
+
+Walk It is an app that pays you to stay active.
 
 ## Getting Started
+
+download repo and run `flutter pub add`
+
+run 'main.dart' file
 
 This project is a starting point for a Flutter application.
 
